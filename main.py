@@ -26,7 +26,7 @@ def is_target_blocked(target):
     wl = load_whitelist_targets()
     return any(w in target.lower() for w in wl)
 
-ADMIN_IDS = {id admin, admin 2}
+ADMIN_IDS = {5677159963}
 
 MAX_TIME_VIP = 300
 MAX_TIME_BASIC = 150
