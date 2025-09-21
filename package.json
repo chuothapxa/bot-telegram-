@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "colors": "^1.4.0",
+    "hpack": "^1.0.0",
+    "socks": "^2.8.7"
+  }
+}
