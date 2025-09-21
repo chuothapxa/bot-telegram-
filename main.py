@@ -6,7 +6,7 @@ from datetime import datetime
 from threading import Lock
 
 
-BOT_TOKEN = "token ở đây nha má"
+BOT_TOKEN = "7794817171:AAElGoQcurRkfzxVA2SAIeHKj1cdDQIRT5g"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 VIP_FILE = "vip_users.json"
